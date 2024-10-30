@@ -27,6 +27,31 @@ This commands includes
 <BR>
 
 ## Output
+# ARP:
+![alt text](Output/arp.png)
 
+# getmac:
+![alt text](Output/getmac.png)
+
+# hostname :
+![alt text](Output/hostname.png)
+
+# ipconfig:
+![alt text](Output/ipconfig.png)
+
+# netsat :
+![alt text](Output/netstat.png)
+
+# nslookup:
+![alt text](Output/nslookup.png)
+
+# ping:
+![alt text](Output/ping.png)
+
+# systeminfo:
+![alt text](Output/sysinfo.png)
+
+# tracert:
+![alt text](Output/tracert.png)
 ## Result
 Thus Execution of Network commands Performed 
